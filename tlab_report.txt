@@ -1,0 +1,4 @@
+default via 192.168.1.1 dev enp0s3 proto dhcp src 192.168.1.189 metric 100 
+04:30:07.658710 lo    In  IP 192.168.10.193.50992 > 192.168.10.193.80: Flags [S], seq 454929286, win 65495, options [mss 65495,sackOK,TS val 3742599696 ecr 0,nop,wscale 7], length 0
+04:30:07.658728 lo    In  IP 192.168.10.193.80 > 192.168.10.193.50992: Flags [S.], seq 2649394306, ack 454929287, win 65483, options [mss 65495,sackOK,TS val 3742599696 ecr 3742599696,nop,wscale 7], length 0
+04:30:07.658746 lo    In  IP 192.168.10.193.50992 > 192.168.10.193.80: Flags [.], ack 1, win 512, options [nop,nop,TS val 3742599696 ecr 3742599696], length 0
