@@ -1,0 +1,15 @@
+==================================================
+SESSION 16: READINESS INVENTORY
+==================================================
+Operator: [Isabelli]
+Date: [4/21/2026]
+
+Confidence Audit (Yes/No):yes
+1. Nmap (Network Scanning): [no ]
+2. Docker (Containerization): [yes ]
+3. Linux Hardening (UFW/chmod): [yes ]
+4. VS Code Remote-SSH: [yes]
+
+Identify your weakest area and your plan to review it:
+[sudo docker ps command it show blank and had to use a different one sudo docker ps -a, I plan to review it by practicing different commands]
+==================================================
