@@ -1,7 +1,7 @@
 # CLOUDNANO REMEDIATION PLAN
-**Operator:**Isabelli
+**Operator**:Isabelli
  ## TOP 5 CRITICAL FIXES
-*(From the 20 raw findings, select the 5 that pose the greatest ACTUAL risk. Explain your reasoning.)*
+
 
 1. **Unauthenticated AWS S3 Bucket**
    * **Justification:** This poses an extreme risk of data exfiltration as sensitive business data is accessible to the public internet without any authentication.
